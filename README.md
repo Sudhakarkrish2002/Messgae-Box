@@ -1,25 +1,23 @@
-# 📝 Simple Text Area Component
+# 📝 Simple Text Area Message Box
 
-This is a **basic message box UI** built using only **HTML** and **CSS**. It simulates a text area interface with a 200-character limit display (note: character limit is visual only, not enforced without JavaScript).
+A minimal and interactive message box component built with **HTML**, **CSS**, and **JavaScript**. It allows users to type messages with a live character count and enforces a 200-character input limit.
 
-## 🎯 Project Description
+## 🎯 Overview
 
-The **Simple Text Area** is a static web component designed for practicing layout, typography, and styling. It displays:
-- A colorful heading
-- Instructional text
-- A message input box
-- Character count indicator
+This project demonstrates how to build a user-friendly input interface using core web technologies. The character limit is enforced using JavaScript, and a live counter updates in real time as the user types.
 
-## 💡 Features
+## 🔍 Features
 
-- ✅ Pure HTML & CSS (no JavaScript)
-- ✅ Clean and minimal layout
-- ✅ Highlighted headings with different font sizes
-- ✅ Styled `textarea` with placeholder text
-- ✅ Character counter UI
+- ✅ Clean and modern UI
+- ✅ Real-time character count display
+- ✅ Enforced 200-character limit via JavaScript
+- ✅ Responsive and accessible layout
+- ✅ Styled using pure CSS (no frameworks)
+- ✅ Beginner-friendly project structure
 
-## 🧑‍💻 Technologies Used
+## 💻 Tech Stack
 
-- **HTML5**
-- **CSS3**
+- **HTML5** – Markup structure for form and labels  
+- **CSS3** – Styling, layout, font, and responsiveness  
+- **JavaScript (Vanilla)** – Live character counting and input validation
 
